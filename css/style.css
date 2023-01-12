@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(113, 113, 140);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: rgb(7, 74, 29);
+}
+
+h1{
+    border-bottom: 15px;
+    color: rgb(20, 9, 140);
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+a:link {
+    color: rgb(228, 228, 10);
+  }
+  
+a:hover {
+    color: rgb(38, 10, 217);
+  }
+  
+  img {
+    border: 1px solid rgb(246, 7, 7);
+    border-radius: 4px;
+    padding: 10px;
+    width: 250px;
+    opacity: 0.5;
+  }
+  
