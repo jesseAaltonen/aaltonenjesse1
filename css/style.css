@@ -5,6 +5,33 @@ body {
     color: rgb(7, 74, 29);
 }
 
+section{
+
+  display: flex;
+  
+  flex-wrap: wrap;
+  
+}
+
+article {
+  
+  flex: 1;
+}
+article:nth-of-type(2){
+  flex: 3;
+}
+.flexContainer {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: rgb(243, 170, 170);
+  align-content: space-between;
+}
+.flexGrowContainer{
+  display: flex;
+  
+  background-color: aquamarine;
+}
+
 h1{
     border-bottom: 15px;
     color: rgb(20, 9, 140);

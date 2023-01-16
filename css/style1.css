@@ -1,0 +1,18 @@
+section{
+
+    display: flex;
+    
+    flex-direction: column;
+    
+  }
+  .main{
+    display: flex;
+  }
+  sidebar{
+    margin: 10px;
+    background-color: aliceblue;
+    min-width: 200px;
+    font-size: larger;
+    font-weight: bold;
+    
+  }
