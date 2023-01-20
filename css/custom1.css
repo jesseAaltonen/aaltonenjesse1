@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+}
+
+header{
+    background-color: aquamarine;
+}
+footer{
+    background-color: rgb(11, 11, 11);
+    color: rgb(246, 249, 246);
+    height: 70px;
+    text-align: center;
+}
+
+.gold{
+    background-color: rgb(144, 105, 8);
+    
+}
+.col1{
+    background-color: aqua;
+}
+.col2{
+    background-color: cadetblue;
+}
+.col3{
+background-color: darkorchid;
+}
